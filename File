@@ -1,0 +1,198 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Us</title>
+  <link rel="stylesheet" href="about.css">
+</head>
+<body>
+  <style>
+    .highlight {
+      font-size: 24px;
+      font-family: 'Times New Roman', Times, serif;
+      background-color: rgba(255, 255, 255, 0.474);
+      padding: 4px;
+    }
+  </style>
+  <style>
+    .highlight2 {
+      font-size: 29px;
+      font-family: 'Times New Roman', Times, serif;
+      background-color: rgba(255, 255, 255, 0.474);
+      padding: 4px;
+    }
+  </style>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="home.html">HOME</a></li>
+        <li><a href="about.html">ABOUT</a></li>
+        <li><a href="analysis.html">ANALYSIS</a></li>
+        <li><a href="results.html">RESULTS</a></li> </ul>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h1><span class="highlight2">ABOUT US</span></h1>
+    <p><span class="highlight">We’re here to make your travel experience personal and unforgettable. Our platform gathers your travel preferences and responses to help us understand what matters most to you when planning a trip.
+
+        By sharing your interests, destinations, and travel habits, you’ll help us curate the perfect recommendations, so you can travel smarter and enjoy the journey even more.
+        
+        Let’s get started on crafting your ideal travel experience today! 🌍✈.</span></p>
+
+    <p><span class="highlight">travel survey works by collecting valuable insights from travelers about their preferences, habits, and expectations
+        when it comes to planning trips. Participants answer questions about their preferred destinations, travel budgets, accommodation choices,
+        activities, and other personal preferences. This data helps travel companies, tour operators, and platforms understand what travelers truly want,
+        allowing them to offer more tailored and personalized recommendations. In real life, these surveys help improve travel experiences by ensuring 
+        that services and destinations align with customer desires, making it easier to plan trips that are both enjoyable and hassle-free.
+        Ultimately, travel surveys enable a better understanding of trends and needs, leading to more efficient planning and happier travel</span></p>
+  </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Us</title>
+  <link rel="stylesheet" href="analysis.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="home.html">HOME</a></li>
+        <li><a href="about.html">ABOUT</a></li>
+        <li><a href="analysis.html">ANALYSIS</a></li>
+        <li><a href="results.html">RESULTS</a></li>
+      </ul>
+    </nav>
+  </header>
+  <table>
+    <tr>
+        <td>Timestamp</td>
+        <td>Email address</td>
+        <td>Name</td>
+        <td>Gender</td>
+        <td>Age</td>
+        <td>Do you Travel a lot</td>
+        <td>How often do you travel</td>
+        <td>Which mode of transport do u prefer</td>
+        <td>How many days of travel do u prefer </td>
+        <td>How far do u travel [In kms]</td>
+        <td>The preferred budget of your travel</td>
+        <td>Rate this survey</td>
+    </tr>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Travel Made Easy </title>
+  <link rel="stylesheet" href="travel.css">
+</head>
+<body>
+
+  <style>
+    .highlight {
+      font-size: 24px;
+      font-family: 'Times New Roman', Times, serif;
+      background-color: rgba(255, 255, 255, 0.474);
+      padding: 4px;
+    }
+  </style>
+  <style>
+    .highlight2 {
+      font-size: 29px;
+      font-family: 'Times New Roman', Times, serif;
+      background-color: rgba(255, 255, 255, 0.474);
+      padding: 4px;
+    }
+  </style>
+
+  <header>
+    <nav>
+      <ul>
+        <li><a href="home.html">HOME</a></li>
+        <li><a href="about.html">ABOUT</a></li>
+        <li><a href="analysis.html">ANALYSIS</a></li>
+        <li><a href="results.html">RESULTS</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="hero">
+    <div class="hero-content">
+      <h1> Trust Our Experience</h1>
+      <p> A team of professional travel experts.</p>
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSe1c0qnLDvtk2WhwCFowJuwM5HuXU1NpwByY7bIHIEE3A3TVg/viewform?usp=sf_link" class="button">Take Survey</a>
+    </div>
+  </section>
+
+  <section id="features">
+    <h2><span class="highlight2"> Our Features </span></h2>
+    <div class="feature">
+      <img src="hot.jpg" alt="Hot air balloon">
+      <h3><span class="highlight2"> Personalized Travel Recommendations:</span></h3>
+      <p> <span class="highlight"> By gathering data on individual preferences, the survey helps create customized travel suggestions,</span></p>
+      <p><span class="highlight"> ensuring that travelers receive recommendations that match their interests, budgets, and desired experiences</span></p>
+    </div>
+    <div class="feature">
+      <img src="images.jpg" alt="Beach">
+      <h3><span class="highlight2">Improved Travel Planning:</span></h3>
+      <p><span class="highlight"> The insights collected from participants allow travel companies and planners to refine their offerings. </span></p>
+      <p><span class="highlight"> This leads to better-tailored itineraries, more suitable accommodations, and activities</span></p>
+      <p><span class="highlight"> that are more likely to meet travelers' expectations, making trip planning smoother and more efficient.</span></p>
+    </div>
+    <div class="feature">
+      <img src="image.jpg" alt="Palm trees">
+      <h3><span class="highlight2"> Trend Analysis and Forecasting:</span></h3>
+      <p><span class="highlight"> The collected data provides valuable insights into travel trends and behaviors. This helps the industry identify popular destinations,</span></p>
+      <p><span class="highlight"> emerging travel preferences, and shifting market demands</span></p>
+      <p><span class="highlight"> enabling better strategic decisions and more relevant services for future travelers.</span></p>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; TRAVEL FORMS 2K24</p>
+  </footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Us</title>
+  <link rel="stylesheet" href="results.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="home.html">HOME</a></li>
+        <li><a href="about.html">ABOUT</a></li>
+        <li><a href="analysis.html">ANALYSIS</a></li>
+        <li><a href="results.html">RESULTS</a></li>
+      </ul>
+    </nav>
+  </header>
+  <img src="website1.jpg" width="750" height="400">
+  <br>
+  <img src="website2.jpg" width="850" height="400">
+  <br>
+  <img src="website3.jpg" width="950" height="400">
+  <br>
+  <img src="website4.jpg" width="820" height="400">
+  <br>
+  <img src="website5.png" width="1200" height="600">
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  
+</body>
+</html>
